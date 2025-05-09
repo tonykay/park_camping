@@ -1,3 +1,7 @@
 app/__pycache__/
 venv/
+.roo/
+.vscode/
+tests/__pycache__/
+
 
